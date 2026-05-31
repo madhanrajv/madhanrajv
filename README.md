@@ -3,10 +3,10 @@
 ║  MADHAN RAJ V — GitHub Profile README                           ║
 ║                                                                  ║
 ║  ⚠️  IMPORTANT — DO THIS FIRST BEFORE UPLOADING:               ║
-║  Find every occurrence of  YOUR_GITHUB_USERNAME                  ║
+║  Find every occurrence of  madhanrajv                  ║
 ║  and replace it with your REAL GitHub username.                  ║
 ║  Example: if your profile is github.com/madhan2025               ║
-║  then replace YOUR_GITHUB_USERNAME → madhan2025                  ║
+║  then replace madhanrajv → madhan2025                  ║
 ║                                                                  ║
 ║  Also update LinkedIn URL on the badge near the bottom.          ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -28,7 +28,7 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=madhanrajv&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
   &nbsp;
   <a href="mailto:madhanv365@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-madhanv365%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
@@ -158,22 +158,22 @@ if __name__ == "__main__":
 
 <!-- ════════════════════════════════════════════════
   ⑤⑥  GITHUB STATS + TOP LANGUAGES
-  ⚠️  Replace YOUR_GITHUB_USERNAME with real username
+  ⚠️  Replace madhanrajv with real username
   Stats will show 404 until username is correct.
 ════════════════════════════════════════════════ -->
 
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/madhanrajv">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api?username=madhanrajv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"
       alt="GitHub Stats"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/madhanrajv">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanrajv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"
       alt="Top Languages"/>
   </a>
 </p>
@@ -182,13 +182,13 @@ if __name__ == "__main__":
 
 <!-- ════════════════════════════════════════════════
   ⑦  STREAK STATS  (demolab — no herokuapp)
-  ⚠️  Replace YOUR_GITHUB_USERNAME
+  ⚠️  Replace madhanrajv
 ════════════════════════════════════════════════ -->
 
 ## 🔥 &nbsp;Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=madhanrajv&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
 </p>
 
 ---
@@ -200,7 +200,7 @@ if __name__ == "__main__":
 ## 📈 &nbsp;Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanrajv&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
@@ -212,7 +212,7 @@ if __name__ == "__main__":
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=madhanrajv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -253,9 +253,9 @@ if __name__ == "__main__":
 
 | 🔬 Project | ⚙️ Tech Stack | ✨ Key Highlights |
 |:-----------|:-------------|:-----------------|
-| [**⚖️ Jurisdiction-Aware Legal Assistant**](https://github.com/YOUR_GITHUB_USERNAME/legal-llm-assistant) | `LLM` `RAG` `Python` `Semantic Validation` | Converts complex statutory language into location-aware, legally accurate responses; custom Semantic Validation System eliminates hallucinations for real-world legal use |
-| [**🛰️ Multimodal Disaster Intelligence Model**](https://github.com/YOUR_GITHUB_USERNAME/disaster-multimodal-ai) | `Vision Transformers` `GNN` `LLM` `Satellite Imagery` | Foundational model fusing satellite images + IoT sensors + social media; ViT for damage detection, GNN for infrastructure risk, LLM for text signal interpretation |
-| [**🔒 Federated GNN — Financial Fraud Detection**](https://github.com/YOUR_GITHUB_USERNAME/federated-fraud-gnn) | `Graph Neural Networks` `Federated Learning` `Privacy-Preserving ML` | Decentralised GNN detecting online fraud across isolated transaction networks; differential-privacy mechanisms enable collaborative training without exposing raw data |
+| [**⚖️ Jurisdiction-Aware Legal Assistant**](https://github.com/madhanrajv/legal-llm-assistant) | `LLM` `RAG` `Python` `Semantic Validation` | Converts complex statutory language into location-aware, legally accurate responses; custom Semantic Validation System eliminates hallucinations for real-world legal use |
+| [**🛰️ Multimodal Disaster Intelligence Model**](https://github.com/madhanrajv/disaster-multimodal-ai) | `Vision Transformers` `GNN` `LLM` `Satellite Imagery` | Foundational model fusing satellite images + IoT sensors + social media; ViT for damage detection, GNN for infrastructure risk, LLM for text signal interpretation |
+| [**🔒 Federated GNN — Financial Fraud Detection**](https://github.com/madhanrajv/federated-fraud-gnn) | `Graph Neural Networks` `Federated Learning` `Privacy-Preserving ML` | Decentralised GNN detecting online fraud across isolated transaction networks; differential-privacy mechanisms enable collaborative training without exposing raw data |
 
 </div>
 
@@ -325,8 +325,8 @@ if __name__ == "__main__":
   <img src="https://img.shields.io/badge/LinkedIn-Madhan%20Raj%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<a href="https://github.com/madhanrajv">
+  <img src="https://img.shields.io/badge/GitHub-madhanrajv-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 
 <br/><br/>
