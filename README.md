@@ -1,71 +1,98 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhan+Raj+V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+%26+Data+Science+Engineer+%7C+Building+Intelligent+Systems&descAlignY=62&descSize=16" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════
+     MADHAN RAJ V — GitHub Profile README
+     Replace every occurrence of MadhanRajV-git with your real GitHub username
+     ══════════════════════════════════════════════════════════════ -->
 
+<!-- ① HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhan%20Raj%20V&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20LLM%20%7C%20GNN%20%7C%20Multimodal%20AI&descAlignY=60&descSize=17" width="100%" alt="header"/>
+
+<!-- ② TYPING HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Madhan+Raj+V+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;LLM+%7C+GNN+%7C+Multimodal+AI+Builder+%F0%9F%9A%80;Turning+Complex+Problems+into+Scalable+Solutions+%F0%9F%92%A1" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Madhan+Raj+V+%F0%9F%91%8B;Pre-Final+Year+AI+%26+Data+Science+Engineer;Building+LLMs+%7C+GNNs+%7C+Multimodal+Transformers+%F0%9F%9A%80;Turning+Research+into+Real-World+Scalable+AI+%F0%9F%A4%96;Open+to+Collaborations+%26+Research+Opportunities+%F0%9F%94%AC" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhanv365&color=70a5fd&style=flat-square&label=Profile+Views)
-[![Gmail](https://img.shields.io/badge/madhanv365@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madhanv365@gmail.com)
-[![Location](https://img.shields.io/badge/Chennai%2C+India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
+<!-- SOCIAL + PROFILE BADGES (all verified slugs) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=MadhanRajV-git&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MadhanRajV-git)
+[![Gmail](https://img.shields.io/badge/Gmail-madhanv365%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhanv365@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhanrajv)
+[![Location](https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-38BDAE?style=for-the-badge)](https://maps.google.com/?q=Chennai,India)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧑‍💻 About Me
+<!-- ③ CODE-BLOCK ABOUT ME -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ```python
+#!/usr/bin/env python3
+# ── madhan_raj_v.py ───────────────────────────────────────────
+
 class MadhanRajV:
-    def __init__(self):
-        self.name         = "Madhan Raj V"
-        self.location     = "Chennai, India 🇮🇳"
-        self.degree       = "B.Tech – Artificial Intelligence & Data Science"
-        self.college      = "Panimalar Engineering College, Anna University"
-        self.year         = "2023 – 2027 (Pre-Final Year)"
-        self.cgpa         = "7.92 / 10"
+    """Pre-Final Year AI & Data Science Engineer."""
 
-        self.stack = [
-            "Python", "Java", "JavaScript",
-            "React.js", "Pandas", "NumPy",
-            "Scikit-Learn", "Matplotlib", "MySQL"
-        ]
+    name         = "Madhan Raj V"
+    location     = "Chennai, Tamil Nadu, India 🇮🇳"
+    email        = "madhanv365@gmail.com"
 
-        self.ai_interests = [
-            "Large Language Models (LLMs)",
-            "Graph Neural Networks (GNNs)",
-            "Multimodal Transformers",
-            "Federated Learning",
-            "Vision Transformers (ViT)"
-        ]
+    education    = {
+        "degree"  : "B.Tech – Artificial Intelligence & Data Science",
+        "college" : "Panimalar Engineering College, Anna University",
+        "period"  : "Sep 2023 → Jun 2027  (Pre-Final Year)",
+        "cgpa"    : "7.92 / 10  (till 5th Sem)",
+    }
 
-        self.currently_learning = [
-            "Advanced LLM Fine-tuning & RAG Pipelines",
-            "PyTorch Deep Learning",
-            "Cloud Deployment (AWS / GCP)",
-            "MLOps & Model Serving"
-        ]
+    stack = [
+        "Python", "Java", "JavaScript", "C",
+        "React.js", "Pandas", "NumPy",
+        "Scikit-Learn", "Matplotlib", "MySQL",
+    ]
 
-        self.fun_fact = "I build AI systems that read satellite images 🛰️ & detect fraud graphs 🔍"
+    ai_expertise = [
+        "Large Language Models (LLM) & RAG",
+        "Graph Neural Networks (GNN)",
+        "Multimodal Transformers & ViT",
+        "Federated & Privacy-Preserving ML",
+    ]
 
-    def motto(self):
-        return "Execute ideas into practical & scalable solutions 🚀"
+    currently_learning = [
+        "LLM Fine-tuning & LangChain",
+        "PyTorch & Transformer Architectures",
+        "Cloud ML  →  AWS / GCP",
+        "MLOps, Docker & Model Serving",
+    ]
 
-me = MadhanRajV()
-print(me.motto())
+    fun_fact = (
+        "I build AI that reads satellite images 🛰️ "
+        "and hunts financial fraud in graph networks 🔍"
+    )
+
+    @staticmethod
+    def motto() -> str:
+        return "⚡ Execute ideas into practical & scalable solutions."
+
+
+if __name__ == "__main__":
+    me = MadhanRajV()
+    print(me.motto())
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ④ TECH BADGES -->
+## 🛠️ &nbsp;Tech Stack
 
-**Languages**
+<div align="center">
 
+### ── Languages ──
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -73,160 +100,182 @@ print(me.motto())
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
-
+### ── Frameworks & Libraries ──
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**AI / ML**
+### ── AI / ML Focus Areas ──
+![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=flat-square&logo=openai&logoColor=white)
+![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-BF91F3?style=flat-square&logo=graphql&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers%20%26%20ViT-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![FedML](https://img.shields.io/badge/Federated%20Learning-38BDAE?style=flat-square&logo=databricks&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-
-**Databases & Tools**
-
+### ── Databases & DevTools ──
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ⑤⑥ GITHUB STATS + TOP LANGUAGES -->
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/madhanv365">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhanv365&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/MadhanRajV-git">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MadhanRajV-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
 </a>
-<a href="https://github.com/madhanv365">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanv365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+&nbsp;
+<a href="https://github.com/MadhanRajV-git">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanRajV-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </a>
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+<!-- ⑦ STREAK STATS -->
+## 🔥 &nbsp;Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=madhanv365&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=MadhanRajV-git&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+<!-- ⑧ ACTIVITY GRAPH -->
+## 📈 &nbsp;Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanv365&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhanRajV-git&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+<!-- ⑨ TROPHY WALL -->
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=madhanv365&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MadhanRajV-git&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 
 </div>
 
 ---
 
-## 💼 Work Experience
+<!-- ⑩ WORK EXPERIENCE -->
+## 💼 &nbsp;Work Experience
 
-<details>
-<summary><b>🏢 Code Bind Technology — Web Development Intern &nbsp;|&nbsp; Feb 2025 – Apr 2025 &nbsp;|&nbsp; T-Nagar, Chennai</b></summary>
+<details open>
+<summary><b>🏢 &nbsp;Code Bind Technology &nbsp;—&nbsp; Web Development Intern &nbsp;|&nbsp; Feb 2025 – Apr 2025 &nbsp;|&nbsp; T-Nagar, Chennai 📍</b></summary>
 
 <br/>
 
+> **Stack used:**
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🌐 Developed **responsive, cross-device-compatible** web applications using HTML, CSS, and JavaScript with clean, professional UI design.
-- 🛠️ Worked on **real-time client projects**, building practical skills in professional development workflows and version control.
-- 🤝 Collaborated within a team environment, gaining exposure to agile practices and project delivery standards.
-- 📈 Strengthened **problem-solving capabilities** through exposure to production-grade codebases and real-world debugging scenarios.
+- 🌐 **Built & shipped** responsive, cross-device-compatible web applications using HTML5, CSS3, and JavaScript — delivering clean, accessible UI across mobile and desktop viewports.
+- 🛠️ **Contributed to live client projects**, gaining hands-on experience with real-world development workflows, code reviews, and iterative deployment cycles.
+- 🤝 Worked within a professional team environment, applying agile principles and structured project management to meet delivery timelines.
+- 📈 **Sharpened problem-solving and debugging skills** on production-grade codebases, developing a systematic approach to diagnosing and resolving UI and logic issues.
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ⑪ FEATURED PROJECTS -->
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-| 🔬 Project | ⚙️ Stack | ✨ Highlights |
-|:-----------|:---------|:-------------|
-| [**⚖️ Jurisdiction-Aware Legal Assistant**](#) | LLM · RAG · Semantic Validation · Python | First-of-its-kind LLM system converting complex statutory language into location-relevant legal guidance; hallucination-controlled via a custom Semantic Validation System |
-| [**🛰️ Multimodal Disaster Intelligence Model**](#) | Vision Transformers · GNN · LLM · Satellite Imagery · Sensor Streams | Multimodal foundational model fusing satellite images, IoT sensor data & social media; uses ViT for geographic damage detection + GNN for infrastructure risk propagation |
-| [**🔒 Federated Graph Learning for Fraud Detection**](#) | GNN · Federated Learning · Privacy-Preserving ML · Python | Decentralized GNN framework detecting financial fraud across multiple transaction networks; privacy-preserving collaborative training with differential privacy mechanisms |
+| 🔬 Project | ⚙️ Tech Stack | ✨ Key Highlights |
+|:-----------|:-------------|:-----------------|
+| [**⚖️ Jurisdiction-Aware Legal Assistant**](https://github.com/MadhanRajV-git/legal-llm-assistant) | `LLM` `RAG` `Python` `Semantic Validation` | Converts complex statutory language into location-relevant, legally accurate responses; custom hallucination-mitigation via a Semantic Validation System ensures real-world reliability |
+| [**🛰️ Multimodal Disaster Intelligence Model**](https://github.com/MadhanRajV-git/disaster-multimodal-ai) | `Vision Transformers` `GNN` `LLM` `Satellite Imagery` `Sensor Streams` | Foundational model fusing satellite images + IoT sensors + social media; ViT for geographic damage detection, GNN for infrastructure risk propagation, LLM for textual signal interpretation |
+| [**🔒 Federated Graph Learning — Fraud Detection**](https://github.com/MadhanRajV-git/federated-fraud-gnn) | `Graph Neural Networks` `Federated Learning` `Privacy-Preserving ML` `Python` | Decentralised GNN framework detecting online financial fraud across isolated transaction networks; differential-privacy mechanisms enable collaborative training without exposing raw data |
 
 </div>
 
+> 💡 *Click any project name to explore the repository — update the links above to match your real repo names.*
+
 ---
 
-## 🏅 Achievements
+<!-- ⑫ ACHIEVEMENTS -->
+## 🏅 &nbsp;Achievements & Recognition
 
 <div align="center">
 
 | 🎖️ | Achievement | Details |
 |:---:|:------------|:--------|
-| 📄 | **International Conference Research Paper** | Presented & accepted for publication at an international academic conference |
-| 💻 | **HackerRank Competitions** | Active participant in programming & problem-solving challenges |
-| 🤖 | **Multimodal AI Research** | Pioneered a multimodal disaster intelligence foundational model — first of its kind integrating satellite + sensor + social signals |
-| 🔐 | **Federated Privacy ML** | Built a privacy-preserving GNN framework balancing detection accuracy, communication cost, and privacy-utility trade-offs |
-| ⚖️ | **LLM Legal AI System** | Designed a jurisdictionally-aware legal AI with hallucination mitigation for reliable, real-world legal guidance |
+| 📄 | **International Conference Publication** | Presented a research paper & received acceptance for publication at an international academic conference |
+| 💻 | **HackerRank Problem Solving** | Active competitor on HackerRank — strengthening algorithmic thinking and programming skills |
+| 🛰️ | **Multimodal AI Research Pioneer** | Architected a first-of-its-kind multimodal disaster intelligence foundational model integrating satellite, sensor & social-media streams |
+| 🔐 | **Privacy-Preserving ML Research** | Designed a federated GNN framework balancing fraud-detection accuracy, communication overhead, and differential-privacy utility |
+| ⚖️ | **LLM Legal AI System** | Built a jurisdictionally-aware legal assistant with hallucination-control mechanisms — bridging NLP research and real-world legal applicability |
 
 </div>
 
 ---
 
-## 🎓 Education
+<!-- ⑬ EDUCATION -->
+## 🎓 &nbsp;Education
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
-|:----------|:--------------|:--------|:---------|
-| B.Tech – Artificial Intelligence & Data Science | Panimalar Engineering College, Anna University | 2023 – 2027 | 7.92 / 10 CGPA (5th Sem) |
+| 🎓 Degree | 🏫 Institution | 📅 Period | 📊 Score |
+|:----------|:--------------|:----------|:---------|
+| **B.Tech – Artificial Intelligence & Data Science** | Panimalar Engineering College, Anna University · Chennai | Sep 2023 – Jun 2027 | **7.92 / 10 CGPA** *(till 5th Sem)* |
 | Higher Secondary Education (HSC) | Vijayanta, Avadi, Chennai | March 2023 | 64.5% |
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+<!-- CURRENTLY LEARNING -->
+## 📚 &nbsp;Currently Learning
 
 ```
-🧠 LLM Engineering   → Fine-tuning · RAG Pipelines · LangChain · Prompt Engineering
-🔥 Deep Learning     → PyTorch · Transformers · Attention Mechanisms · RLHF
-☁️  Cloud & MLOps    → AWS SageMaker · GCP Vertex AI · Docker · Model Serving
-📊 Advanced ML       → Federated Learning · Graph Neural Networks · ViT · Diffusion Models
-🌐 Full Stack AI     → FastAPI · React.js · REST APIs · AI-powered Web Apps
+🧠  LLM Engineering     →  Fine-tuning · RAG Pipelines · LangChain · Prompt Engineering
+🔥  Deep Learning       →  PyTorch · Transformer Architectures · Attention · RLHF
+☁️   Cloud & MLOps       →  AWS SageMaker · GCP Vertex AI · Docker · CI/CD for ML
+📊  Advanced ML         →  Federated Learning · Graph NNs (PyG) · ViT · Diffusion Models
+🌐  Full-Stack AI Apps  →  FastAPI · React.js · REST APIs · AI-powered Web Applications
 ```
 
 ---
 
+<!-- CONNECT FOOTER -->
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
+## 🤝 &nbsp;Let's Connect & Build Something Amazing
 
-[![Gmail](https://img.shields.io/badge/Email-madhanv365@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhanv365@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-madhanv365-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhanv365)
-[![Location](https://img.shields.io/badge/Based+in-Chennai%2C+India-38BDAE?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
+[![Gmail](https://img.shields.io/badge/Email-madhanv365%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhanv365@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhan%20Raj%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhanrajv)
+[![GitHub](https://img.shields.io/badge/GitHub-MadhanRajV--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhanRajV-git)
 
-*"Execute ideas into practical & scalable solutions 🚀"*
+<br/>
+
+> *"Execute ideas into practical & scalable solutions."* 🚀
+
+<br/>
+
+![wave](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5e2f0e8d/images/marquee2.svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%" alt="footer"/>
