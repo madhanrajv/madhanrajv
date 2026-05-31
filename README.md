@@ -119,12 +119,21 @@ print(MadhanRajV.motto())
 
 <div align="center">
 
-![Madhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhanrajv&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&card_width=400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanrajv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6&border_radius=10&card_width=300)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-Proficient-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![LLM](https://img.shields.io/badge/LLM%20%26%20RAG-Research%20Level-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-Research%20Level-BF91F3?style=for-the-badge&logo=graphql&logoColor=white)
+![ViT](https://img.shields.io/badge/Vision%20Transformers-Research%20Level-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FedML](https://img.shields.io/badge/Federated%20Learning-Research%20Level-38BDAE?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Commits](https://img.shields.io/badge/Total%20Commits-Growing%20Daily-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML%20Research-bf91f3?style=for-the-badge&logo=academia&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-38BDAE?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </div>
-
-> 📌 *Stats will populate automatically as projects are pushed to GitHub.*
 
 ---
 
