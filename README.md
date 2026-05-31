@@ -119,10 +119,12 @@ print(MadhanRajV.motto())
 
 <div align="center">
 
-![Madhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhanrajv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanrajv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+![Madhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhanrajv&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanrajv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6&border_radius=10&card_width=300)
 
 </div>
+
+> 📌 *Stats will populate automatically as projects are pushed to GitHub.*
 
 ---
 
@@ -146,11 +148,15 @@ print(MadhanRajV.motto())
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Milestones & Badges
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=madhanrajv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![Research](https://img.shields.io/badge/International%20Conference-Research%20Published-70a5fd?style=for-the-badge&logo=googlescholar&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![AI Builder](https://img.shields.io/badge/AI%20Builder-LLM%20%7C%20GNN%20%7C%20ViT-bf91f3?style=for-the-badge&logo=openai&logoColor=white)
+![Intern](https://img.shields.io/badge/Web%20Dev%20Intern-Code%20Bind%20Technology-38BDAE?style=for-the-badge&logo=html5&logoColor=white)
+![Student](https://img.shields.io/badge/CGPA-7.92%20%2F%2010-FF6B6B?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
